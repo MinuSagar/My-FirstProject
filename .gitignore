@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.bmad-help-setup-modules.toml
+*.user.toml
